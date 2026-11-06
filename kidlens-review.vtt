@@ -1,0 +1,34 @@
+WEBVTT
+
+00:00.000 --> 00:08.000
+KidLens Android 0.1.0: local profiles and explicit parent-managed device rules.
+
+00:08.000 --> 00:28.000
+Open Family and authenticate. Android protects the credential screen from recording.
+
+00:28.000 --> 00:48.000
+Read the full in-app disclosure about visible addresses, local rules, and limitations.
+
+00:48.000 --> 01:02.000
+Without consent, the Android permission entry stays disabled.
+
+01:02.000 --> 01:12.200
+Leave the parent area. Reopening Family requires device authentication again.
+
+01:12.200 --> 01:39.200
+Reopen Family to choose whether to consent to device rules.
+
+01:39.200 --> 01:57.200
+Enter the explicit Clock app rule: com.android.deskclock.
+
+01:57.200 --> 02:10.700
+Affirmative consent, save rules, and open Android permission settings.
+
+02:10.700 --> 02:41.700
+Review the Android warning and explicitly grant KidLens accessibility permission.
+
+02:41.700 --> 02:47.700
+Android confirms the KidLens service is enabled.
+
+02:47.700 --> 02:59.000
+Launching the explicitly blocked Clock app returns to Home. Verified on signed build 2.
